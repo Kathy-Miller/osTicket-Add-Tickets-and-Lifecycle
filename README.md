@@ -70,7 +70,7 @@ Video timestamps:
 
 
 <h2>Next Project: Networking </h2> 
-![image](https://github.com/Kathy-Miller/osTicket-Add-Tickets-and-Lifecycle/assets/148352721/6ee36d86-7c3c-4c77-b162-e6d27a9915da)
+![image](http://i.ibb.co/B4V5Tbv/UC.jpg")
 
 
 
