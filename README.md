@@ -52,7 +52,7 @@ In this phase of the lab, I configure roles, SLAs, departments, teams, help topi
 
 
 
-Click 👉 [HERE]([https://youtu.be/Eh47MBlkBVQ?feature=shared](https://youtu.be/PsLzaeC7Vdw?feature=shared)) 👈 to go to the Add Ticket and Lifecycle demo video.
+Click 👉 [HERE](https://www.youtube.com/watch?v=PsLzaeC7Vdw) 👈 to go to the Add Ticket and Lifecycle demo video.
 
 Video timestamps:
 
