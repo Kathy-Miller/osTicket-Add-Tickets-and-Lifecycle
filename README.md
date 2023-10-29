@@ -70,10 +70,12 @@ Video timestamps:
 
 
 <h2>Next Project: Networking </h2> 
-![image](http://i.ibb.co/B4V5Tbv/UC.jpg")
 
+<br>
 
+</br>
 
+![image](https://github.com/Kathy-Miller/main/blob/main/UNDER%20CONSTRUCTION%20JPEG.jpg)
 
 
 
